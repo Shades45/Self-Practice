@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 //
-
+// Creating a screen structure with a Scaffold Composable and slots
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MyScaffoldApp() {
